@@ -1,0 +1,14 @@
+Sistema para cadastro de pecas:
+
+3 Requisitos:
+ok Vevificar se a peca tem mais de 100 gramas
+	ok Sim:Pode Cadastrar
+	ok Nao: Nao pode cadastrar
+
+ok Verificar o numero de pecas cadastradas, e nao pode ter mais de 10 pecas
+	ok Menos de 10: Pode cadastrar
+	ok 10 ou mais pecas: Nao pode cadastrar.
+
+ok Verificar o comprimento do nome de peca
+	ok Menos de 3 caracteres: Nao podemos cadastrar
+	ok 3 ou mais caracteres: Podemos cadastrar
